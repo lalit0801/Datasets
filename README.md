@@ -1,7 +1,8 @@
 # Datasets
 This repo is for the resource pool of datasets.
 Source: Kaggle
-Datasets:: * Brain Stroke
-
-           *valorant player stats
-           *diamond price dataset
+Datasets::
+           * Brain Stroke
+           * World Army 
+           * Valorant player stats
+           * Diamond price dataset
